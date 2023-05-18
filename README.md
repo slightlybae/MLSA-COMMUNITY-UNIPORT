@@ -8,3 +8,5 @@ We have resources here that can help you learn more about different topics. You 
 We upload all the resources shared on our events and activities on campus.
 
 ### Resume and Cover Letter
+Access and edit templates 
+[Click here](https://github.com/slightlybae/MLSA-COMMUNITY-UNIPORT/tree/0d74491f2d1629df79578d53e6f953b3d3a386b5/Resume%20and%20Cover%20Letter%20Templates)
