@@ -12,6 +12,8 @@ Access and edit templates
 [Click here](https://github.com/slightlybae/MLSA-COMMUNITY-UNIPORT/tree/0d74491f2d1629df79578d53e6f953b3d3a386b5/Resume%20and%20Cover%20Letter%20Templates)
 
 ### Get Started in Power Platform
+These are low code/No code tools that allow users to build custom solutions and automate workflow.
+
 [Click here](https://github.com/slightlybae/MLSA-COMMUNITY-UNIPORT/blob/3d887dbc8e25ed93d28d8ca35f1f8b4b00900618/Power%20Platform.md)
 
-https://apps.powerapps.com/play/e/default-ba9c150a-ff3b-42a1-9c00-55ac0ed53268/a/33ae61b4-adb9-4038-8442-998eddeb40af?tenantId=ba9c150a-ff3b-42a1-9c00-55ac0ed53268
+
